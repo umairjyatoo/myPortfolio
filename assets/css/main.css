@@ -456,6 +456,6 @@ body{
 	width: calc(100% - 10px);
   }
   .bar.expert::before{
-	width: calc(100% - 0px);
+	width: calc(100% - 10px);
   }
   
