@@ -55,7 +55,7 @@ $(document).ready(function () {
     });
     //typed animation
     var typed = new Typed(".typing", {
-        strings: ['a Software Engineer', 'an API Specialist', 'a Freelancer', 'a Lifelong learner'],
+        strings: ['a Software Engineer', 'a Freelancer', 'a Lifelong learner'],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
